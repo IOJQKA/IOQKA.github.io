@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wyanhe.github.io</id>
     <title>Wyanhe</title>
-    <updated>2020-08-25T09:08:37.923Z</updated>
+    <updated>2020-08-25T15:05:49.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wyanhe.github.io"/>
     <link rel="self" href="https://Wyanhe.github.io/atom.xml"/>
@@ -10,6 +10,84 @@
     <logo>https://Wyanhe.github.io/images/avatar.png</logo>
     <icon>https://Wyanhe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wyanhe</rights>
+    <entry>
+        <title type="html"><![CDATA[python入门之基础（待更新...）]]></title>
+        <id>https://Wyanhe.github.io/post/python-ru-men-zhi-ji-chu-dai-geng-xin/</id>
+        <link href="https://Wyanhe.github.io/post/python-ru-men-zhi-ji-chu-dai-geng-xin/">
+        </link>
+        <updated>2020-08-25T14:57:27.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>🖋入门篇💻<br>
+注释<br>
+单行注释 以#开头<br>
+#这是注释<br>
+多行注释 三个单引号或者双引号<br>
+'''<br>
+这是注释<br>
+'''<br>
+&quot;&quot;&quot;<br>
+这是注释<br>
+&quot;&quot;&quot;<br>
+变量<br>
+命名：包含字母、数字和下划线。不能以数字开头，不能用关键字和函数名。<br>
+赋值：例如 a = 3<br>
+链式赋值：链式赋值用于同一个对象赋值给多个变量</p>
+<blockquote>
+<blockquote>
+<p>x=y=3等同于x=3,y=3<br>
+系列解包赋值：系列数据赋值给对应相同个数的变量。</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>a,b,c=1,2,3等同于a=1,b=2,c=3<br>
+可实现替换</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>a,b=2,4<br>
+a,b=b,a<br>
+printf(a,b)<br>
+4  2<br>
+删除变量：del</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>del a</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>数据类型<br>
+python中最基本的内置数据类型：<br>
+• Number（数字）<br>
+• String（字符串）<br>
+• List（列表）<br>
+• Tuple（元组）<br>
+• Set（集合）<br>
+• Dictionary（字典）<br>
+不可变数据（3 个）：Number（数字）、String（字符串）、Tuple（元组）；<br>
+可变数据（3 个）：List（列表）、Dictionary（字典）、Set（集合）。</p>
+<p>数字：<br>
+整型int<br>
+浮点型float<br>
+布尔型bool<br>
+复数型complex</p>
+<p>字符串：<br>
+字符串用单引号' 或者双引号&quot;括起来。</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>str ='HelloPython'<br>
+字符截取格式<br>
+变量[头下标:尾下标]</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>未完 待续......⏳</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到本博客！]]></title>
         <id>https://Wyanhe.github.io/post/hello-gridea/</id>
