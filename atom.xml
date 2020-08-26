@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wyanhe.github.io</id>
     <title>Wyanhe</title>
-    <updated>2020-08-25T15:39:17.390Z</updated>
+    <updated>2020-08-26T03:40:40.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wyanhe.github.io"/>
     <link rel="self" href="https://Wyanhe.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://Wyanhe.github.io/post/archives-python/">
         </link>
         <updated>2020-08-25T14:57:27.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>🖋入门篇💻<br>
+        <content type="html"><![CDATA[<p>🖋入门篇💻<br>
 注释<br>
 单行注释 以#开头<br>
 ·#这是注释<br>
@@ -42,7 +41,6 @@
 ·&gt;&gt;&gt;4  2<br>
 删除变量：del<br>
 ·&gt;&gt;&gt;del a</p>
-</blockquote>
 <p>数据类型<br>
 python中最基本的内置数据类型：<br>
 • Number（数字）<br>
@@ -67,7 +65,7 @@ python中最基本的内置数据类型：<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欢迎来到本博客！]]></title>
+        <title type="html"><![CDATA[📑博客介绍！]]></title>
         <id>https://Wyanhe.github.io/post/hello-gridea/</id>
         <link href="https://Wyanhe.github.io/post/hello-gridea/">
         </link>
